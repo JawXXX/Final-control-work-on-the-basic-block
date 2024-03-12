@@ -1,0 +1,14 @@
+C:\Users\jaws_\Desktop\Итоговая контрольная работа по основному блоку\Final control work on the basic block\bin\Debug\net7.0\Final control work on the basic block.exe
+C:\Users\jaws_\Desktop\Итоговая контрольная работа по основному блоку\Final control work on the basic block\bin\Debug\net7.0\Final control work on the basic block.deps.json
+C:\Users\jaws_\Desktop\Итоговая контрольная работа по основному блоку\Final control work on the basic block\bin\Debug\net7.0\Final control work on the basic block.runtimeconfig.json
+C:\Users\jaws_\Desktop\Итоговая контрольная работа по основному блоку\Final control work on the basic block\bin\Debug\net7.0\Final control work on the basic block.dll
+C:\Users\jaws_\Desktop\Итоговая контрольная работа по основному блоку\Final control work on the basic block\bin\Debug\net7.0\Final control work on the basic block.pdb
+C:\Users\jaws_\Desktop\Итоговая контрольная работа по основному блоку\Final control work on the basic block\obj\Debug\net7.0\Final control work on the basic block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaws_\Desktop\Итоговая контрольная работа по основному блоку\Final control work on the basic block\obj\Debug\net7.0\Final control work on the basic block.AssemblyInfoInputs.cache
+C:\Users\jaws_\Desktop\Итоговая контрольная работа по основному блоку\Final control work on the basic block\obj\Debug\net7.0\Final control work on the basic block.AssemblyInfo.cs
+C:\Users\jaws_\Desktop\Итоговая контрольная работа по основному блоку\Final control work on the basic block\obj\Debug\net7.0\Final control work on the basic block.csproj.CoreCompileInputs.cache
+C:\Users\jaws_\Desktop\Итоговая контрольная работа по основному блоку\Final control work on the basic block\obj\Debug\net7.0\Final control work on the basic block.dll
+C:\Users\jaws_\Desktop\Итоговая контрольная работа по основному блоку\Final control work on the basic block\obj\Debug\net7.0\refint\Final control work on the basic block.dll
+C:\Users\jaws_\Desktop\Итоговая контрольная работа по основному блоку\Final control work on the basic block\obj\Debug\net7.0\Final control work on the basic block.pdb
+C:\Users\jaws_\Desktop\Итоговая контрольная работа по основному блоку\Final control work on the basic block\obj\Debug\net7.0\Final control work on the basic block.genruntimeconfig.cache
+C:\Users\jaws_\Desktop\Итоговая контрольная работа по основному блоку\Final control work on the basic block\obj\Debug\net7.0\ref\Final control work on the basic block.dll
